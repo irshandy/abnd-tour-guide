@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Bandung Tour Guide</string>
+
+    <string name="category_shopping">Shopping</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_historic">Historic</string>
+
+    <string name="name_sariater">Sari Ater Hot Spring</string>
+    <string name="name_tahura">Ir. H. Juanda Forest Conservation Park</string>
+    <string name="name_situ_patenggang">Patenggang Lake</string>
+    <string name="name_curug_cimahi">Cimahi Waterfall</string>
+    <string name="name_teras_cikapundung">Cikapundung Terrace</string>
+    <string name="name_taman_lansia">Lansia Park</string>
+    <string name="name_taman_centrum">Centrum Music Park</string>
+    <string name="name_malabar">Malabar Tea Plantations</string>
+
+    <string name="address_sariater">Jalan Raya Ciater</string>
+    <string name="address_tahura">Kompleks Tahura Ir. H. Djuanda No.99</string>
+    <string name="address_situ_patenggang">Jl. Raya Ciwidey-Rancabali</string>
+    <string name="address_curug_cimahi">Jl. Raya Kolonel Masturi</string>
+    <string name="address_teras_cikapundung">Jl. Kebon Jati</string>
+    <string name="address_taman_lansia">Jl. Cisangkuy</string>
+    <string name="address_taman_centrum">Jl. Belitung</string>
+    <string name="address_malabar">Kecamatan Pangalengan</string>
+
+    <string name="name_museum_kaa">Museum of The Asian-African Conference</string>
+    <string name="name_stpeter_cathedral">St. Peter’s Cathedral</string>
+    <string name="name_gedung_bi">Bank Indonesia Building</string>
+    <string name="name_gedung_sate">Gedung Sate</string>
+    <string name="name_masjid_agung">Bandung Grand Mosque</string>
+    <string name="name_masjid_salman">Salman Mosque</string>
+    <string name="name_itb">Institut Teknologi Bandung</string>
+    <string name="name_savoy_homann">Hotel Savoy Homann</string>
+
+    <string name="address_museum_kaa">Jl. Asia Afrika No. 65</string>
+    <string name="address_stpeter_cathedral">Jl. Merdeka No. 14</string>
+    <string name="address_gedung_bi">Jl. Braga No. 108</string>
+    <string name="address_gedung_sate">Jl. Diponegoro No. 22</string>
+    <string name="address_masjid_agung">Jl. Asia Afrika</string>
+    <string name="address_masjid_salman">Jl. Ganesha no. 7</string>
+    <string name="address_itb">Jl. Ganesha 10</string>
+    <string name="address_savoy_homann">Jl. Asia Afrika No. 112</string>
+
+    <string name="tel_museum_kaa">+62 22 4233564</string>
+    <string name="tel_itb">+62 22 2500577</string>
+    <string name="tel_savoy_homann">+62 22 4232244</string>
+
+    <string name="name_miss_bee">Miss Bee Providore</string>
+    <string name="name_atmosphere">Atmosphere Resort Cafe</string>
+    <string name="name_braga_permai">Braga Permai Resto</string>
+    <string name="name_hummingbird">Hummingbird Eatery</string>
+    <string name="name_the_valley">The Valley</string>
+    <string name="name_dapur_dahpati">Dapur Dahapati</string>
+    <string name="name_stone_cafe">The Stone Cafe</string>
+    <string name="name_tizis">Tizi’s</string>
+
+    <string name="address_miss_bee">Jl. Rancabentang No. 11A</string>
+    <string name="address_atmosphere">Jl. Lengkong Besar No. 97</string>
+    <string name="address_braga_permai">Jl. Braga No. 58</string>
+    <string name="address_hummingbird">Jl. Progo No. 14</string>
+    <string name="address_the_valley">Jl. Lembah Pakar Timur No. 28</string>
+    <string name="address_dapur_dahpati">Jl. Cipaganti No. 146</string>
+    <string name="address_stone_cafe">Jl. Rancakendal Luhur No. 5</string>
+    <string name="address_tizis">Jl. Kidang Pananjung No. 3</string>
+
+    <string name="tel_miss_bee">+62 22 2033613</string>
+    <string name="tel_atmosphere">+62 22 4262815</string>
+    <string name="tel_braga_permai">+62 22 4233778</string>
+    <string name="tel_hummingbird">+62 22 4212582</string>
+    <string name="tel_the_valley">+62 22 2531052</string>
+    <string name="tel_dapur_dahpati">+62 22 7101301</string>
+    <string name="tel_stone_cafe">+62 22 2500577</string>
+    <string name="tel_tizis">+62 22 2504963</string>
+
+    <string name="name_rumah_mode">Rumah Mode</string>
+    <string name="name_ciwalk">Cihampelas Walk</string>
+    <string name="name_paris_van_java">Paris Van Java</string>
+    <string name="name_the_secret_fo">The Secret Factory Outlet</string>
+    <string name="name_trans_studio_mall">Trans Studio Mall</string>
+    <string name="name_heritage_fo">Heritage Factory Outlet</string>
+    <string name="name_pasar_baru">Pasar Baru</string>
+    <string name="name_the_summit_fo">The Summit Factory Outlet</string>
+
+    <string name="address_rumah_mode">Jl. Dr. Setiabudhi No.41</string>
+    <string name="address_ciwalk">Jl. Cihampelas No. 160</string>
+    <string name="address_paris_van_java">Jl. Sukajadi No. 131 - 139</string>
+    <string name="address_the_secret_fo">Jl. Riau No. 47</string>
+    <string name="address_trans_studio_mall">Jl. Jend. Gatot Subroto No. 289</string>
+    <string name="address_heritage_fo">Jl. Riau No. 63</string>
+    <string name="address_pasar_baru">Jl. Otto Iskandar Dinata</string>
+    <string name="address_the_summit_fo">Jl. Riau No.61</string>
+
+    <string name="tel_rumah_mode">+62 22 2035498</string>
+    <string name="tel_ciwalk">+62 22 2061122</string>
+    <string name="tel_paris_van_java">+62 22 2060800</string>
+    <string name="tel_trans_studio_mall">+62 22 91091020</string>
+    <string name="tel_heritage_fo">+62 22 4220545</string>
+    <string name="tel_the_summit_fo">+62 22 4221001</string>
+
+</resources>
